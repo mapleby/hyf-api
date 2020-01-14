@@ -1,0 +1,22 @@
+{
+	"name": "hyf-api",
+	"version": "0.0.1",
+	"description": "一个管理API的集合库",
+	"main": "hyf-api.js",
+	"keywords": [
+		"API",
+		"APISet",
+		"api-set",
+		"API-SET",
+		"apiset",
+		"hyf",
+		"hyf-api",
+		"mapleby-api",
+		"mapleby"
+	],
+	"author": "黄运峰(mapleby || hyf)",
+	"bugs": {
+		"email": "1109505386@qq.com"
+	},
+	"license": "ISC"
+}
